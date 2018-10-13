@@ -1,0 +1,13 @@
+READ ME.
+
+The work is about a connection between bird sound sample and weather change for each city area.
+
+The Csv Data contains the weather of four cities for New Zealand.
+
+The blue means cold weather and red means hot.
+
+Each Area has been set with certain keys to play the sound.
+
+Once sound start playing. It will extract data from the city that user selected, and making sonification effects on the original bird sample.
+
+The effects included Reverb, Delay, Volume.
